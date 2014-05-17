@@ -1,0 +1,7 @@
+----------------
+Sources:
+----------------
+square@half.png
+square.png
+square@2x.png
+square@4x.png
