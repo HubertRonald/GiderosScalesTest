@@ -1,0 +1,21 @@
+<project>
+ <properties autorotation="0" encryptAssets="0" fps="60" scaleMode="3" mouseToTouch="1" iosDevice="0" packageName="com.yourdomain.yourapp" logicalHeight="0" logicalWidth="0" mouseTouchOrder="0" encryptCode="0" retinaDisplay="3" touchToMouse="1" assetsOnly="0" orientation="0" architecture="0">
+  <imageScales>
+   <scale suffix="@4x" scale="4"/>
+   <scale suffix="@2x" scale="2"/>
+   <scale suffix="@half" scale="0.5"/>
+  </imageScales>
+ </properties>
+ <folder name="w320_h480">
+  <file source="w320_h480/square@half.png"/>
+  <file source="w320_h480/square.png"/>
+  <file source="w320_h480/square@2x.png"/>
+  <file source="w320_h480/square@4x.png"/>
+ </folder>
+ <folder name="w640_h960">
+  <file source="w640_h960/square@half.png"/>
+  <file source="w640_h960/square.png"/>
+  <file source="w640_h960/square@2x.png"/>
+ </folder>
+ <file source="main.lua"/>
+</project>
